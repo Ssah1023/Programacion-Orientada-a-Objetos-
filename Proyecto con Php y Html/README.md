@@ -1,16 +1,16 @@
-Capturas de Pantalla del Trabajo Realizado Para JavaFx
+Capturas de Pantalla del Trabajo Realizado Para Php y Html
 
 
-[![5.png](https://i.postimg.cc/RF55Xdz0/5.png)](https://postimg.cc/HJ2hLQnG)  
+[![1.png](https://i.postimg.cc/zfFQHzHX/1.png)](https://postimg.cc/06rnLqCL) 
 
 
-[![6.png](https://i.postimg.cc/BnzG1sYH/6.png)](https://postimg.cc/FY06MtQH) 
+[![2.png](https://i.postimg.cc/vTVkBWWC/2.png)](https://postimg.cc/GTbqgTgj) 
 
 
-[![9.png](https://i.postimg.cc/JhyMTtDp/9.png)](https://postimg.cc/GB1WtLjD) 
+[![3.png](https://i.postimg.cc/zGtjsyhh/3.png)](https://postimg.cc/BjFHDQMZ)
 
 
-[![10.png](https://i.postimg.cc/FKJXyq8q/10.png)](https://postimg.cc/nsZWZdHY) 
+[![4.png](https://i.postimg.cc/sXRZqzTS/4.png)](https://postimg.cc/VSD60xQL) 
 
 
-[![1.png](https://i.postimg.cc/T2nYMykS/1.png)](https://postimg.cc/145ZDz1c) 
+[![5.png](https://i.postimg.cc/85tP4g9T/5.png)](https://postimg.cc/Q9K3Nwjz) 
