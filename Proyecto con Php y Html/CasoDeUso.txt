@@ -1,0 +1,48 @@
+Programación Orientada a Objetos IS410 
+
+Catedrático: Ing. Miguel Sauceda 
+
+Integrantes: Dionisio Alberto Gutiérrez  
+             Henry Antonio Santos  
+
+Caso de Uso: Crear Denuncia 
+
+Descripción: Sistema para crear y almacenar denuncias
+
+Precondiciones: El denunciante debe tener acceso al sistema de denuncias, contar con un sistema que gestione expedientes 
+
+Actores: Denunciante y Denunciado
+
+Forma de Proceder: 
+
+1.	El denunciante accede al sistema de registro de denuncias.
+
+2.	El sistema presenta al denunciante la opción de "Crear Nuevo Expediente de Denuncia".
+
+3.	El denunciante selecciona esta opción y comienza a completar el formulario de registro. 
+
+4.	El formulario solicita información detallada sobre el incidente denunciado, incluyendo
+
+ 	• Nombre del denunciante. 
+ 	• Dirección del denunciante.
+	• Nombre del denunciado. 	 
+	• Dirección del Denunciado. 
+ 	• Tipo de delito.  
+
+5.	El denunciante completa el formulario con la información requerida. 
+
+6.	Una vez completado el formulario se registra la denuncia 
+
+7.	El sistema adjunta la denuncia al expediente, junto con cualquier evidencia o documentos relevantes proporcionados por el denunciante. 
+
+
+Excepciones: 
+
+
+	• Si el formulario no se completa correctamente o hay campos obligatorios faltantes, el sistema solicita al denunciante que corrija la información antes de continuar o la opción de limpiar campos en el formulario. 
+
+
+Postcondiciones:  
+
+
+	• El expediente de denuncia se registra en el sistema y está disponible para su revisión y seguimiento por parte de las autoridades pertinentes.
